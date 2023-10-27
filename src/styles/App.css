@@ -1,0 +1,8 @@
+.home, .artikel, .contact-us, .klien, .layanan, .tenaga-ahli, .about-us {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
