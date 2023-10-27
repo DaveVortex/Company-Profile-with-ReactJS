@@ -1,0 +1,43 @@
+.carousel {
+    background-color: #b5bfc6;
+    margin: 100px 0 10px;
+    height: 400px;
+    display: inline-flex;
+}
+
+.carousel-card {
+    display: inline-flex;
+}
+
+.carousel-image {
+    padding: 0 10%;
+    margin: 20px 0 20px;
+    border-radius: 4px;
+}
+
+.carousel-text {
+    display: inline-block;
+    color: white;
+    background-color: #36454F;
+    border-radius: 4px;
+    padding: 10px 30px;
+    text-align: left;
+    margin: 20px 100px 20px 0;
+}
+
+.carousel-button {
+    display: inline-flex;
+}
+
+#download-btn {
+    border: 2px solid black;
+    padding: 2px 10px;
+    border-radius: 8px;
+}
+
+#services-btn {
+    border: 2px solid black;
+    padding: 2px 10px;
+    margin: 0 0 0 10px;
+    border-radius: 8px;
+}

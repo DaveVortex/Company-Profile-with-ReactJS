@@ -1,0 +1,15 @@
+.container {
+    
+}
+
+.card-container {
+    display: inline-block;
+    margin: auto;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    height: 200%;
+    width: 30%
+}
